@@ -1,11 +1,16 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.mycompany.qa1963"
+    package="com.mycompany.widgets"
     xmlns:tools="http://schemas.android.com/tools">
     <uses-permission android:name="android.permission.INTERNET"/>
-
-
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" android:maxSdkVersion="32"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" android:maxSdkVersion="32"/>
+    <uses-permission android:name="android.permission.READ_MEDIA_IMAGES"/>
+    <uses-permission android:name="android.permission.READ_MEDIA_VIDEO"/>
+    <uses-permission android:name="android.permission.USE_FINGERPRINT"/>
+    <uses-permission android:name="android.permission.BLUETOOTH" />
     <application
-        android:label="QA-1963"
+        android:label="WidgetDup"
         tools:replace="android:label"
         android:icon="@mipmap/ic_launcher"
         android:requestLegacyExternalStorage="true">
@@ -45,7 +50,7 @@
                 <action android:name="android.intent.action.VIEW" />
                 <category android:name="android.intent.category.DEFAULT" />
                 <category android:name="android.intent.category.BROWSABLE" />
-                <data android:scheme="qa1963" android:host="qa1963.com" />
+                <data android:scheme="widgetdup" android:host="widgetdup.com" />
             </intent-filter>
 
         </activity>
@@ -55,7 +60,7 @@
         <meta-data
             android:name="flutterEmbedding"
             android:value="2" />
-
+        <meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyAvp8EbPxvF87WedCxcGQE4Z7XhwPvSse0"/>
 
 
     </application>

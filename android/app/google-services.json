@@ -1,0 +1,181 @@
+{
+  "project_info": {
+    "project_number": "225018406785",
+    "project_id": "push-i-o-s-qx30ur",
+    "storage_bucket": "push-i-o-s-qx30ur.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225018406785:android:b83fd9b53b439a6d5b6a80",
+        "android_client_info": {
+          "package_name": "com.ffmealplanner.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzI_HwUU8-HKtfMNAxfPSYPj26snevHk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225018406785:android:d785db2f5e1d41a15b6a80",
+        "android_client_info": {
+          "package_name": "com.mealplanner.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzI_HwUU8-HKtfMNAxfPSYPj26snevHk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225018406785:android:5c5f5d850282ba0e5b6a80",
+        "android_client_info": {
+          "package_name": "com.mycompany.beta1707"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzI_HwUU8-HKtfMNAxfPSYPj26snevHk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225018406785:android:25395557f21308e65b6a80",
+        "android_client_info": {
+          "package_name": "com.mycompany.pushios"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzI_HwUU8-HKtfMNAxfPSYPj26snevHk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225018406785:android:a88f7cca28ca773b5b6a80",
+        "android_client_info": {
+          "package_name": "com.mycompany.regression31jul"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzI_HwUU8-HKtfMNAxfPSYPj26snevHk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225018406785:android:26833db3962c47d95b6a80",
+        "android_client_info": {
+          "package_name": "com.mycompany.regressiondiego"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzI_HwUU8-HKtfMNAxfPSYPj26snevHk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225018406785:android:370b80ff0d24c0e25b6a80",
+        "android_client_info": {
+          "package_name": "com.mycompany.regressionjuly9"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzI_HwUU8-HKtfMNAxfPSYPj26snevHk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225018406785:android:c9ed55148be269095b6a80",
+        "android_client_info": {
+          "package_name": "com.mycompany.widgetproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzI_HwUU8-HKtfMNAxfPSYPj26snevHk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225018406785:android:5e856edfa1fced065b6a80",
+        "android_client_info": {
+          "package_name": "com.mycompany.widgets"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzI_HwUU8-HKtfMNAxfPSYPj26snevHk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

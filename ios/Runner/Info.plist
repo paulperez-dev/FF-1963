@@ -5,7 +5,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>$(DEVELOPMENT_LANGUAGE)</string>
 	<key>CFBundleDisplayName</key>
-	<string>QA-1963</string>
+	<string>WidgetDup</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -13,23 +13,40 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>QA-1963</string>
+	<string>WidgetDup</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
+	<key>CFBundleLocalizations</key>
+	<array>
+		<string>en</string>
+		<string>es</string>
+		<string>fr</string>
+	</array>
 
 	<key>CFBundleShortVersionString</key>
 	<string>$(FLUTTER_BUILD_NAME)</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleURLTypes</key>
-	<array>        <dict>
+	<array>
+        <dict>
+            <key>CFBundleTypeRole</key>
+            <string>Editor</string>
+            <key>CFBundleURLSchemes</key>
+            <array>
+                <!--FF_REVERSED_CLIENT_ID-->
+                
+            </array>
+        </dict>
+
+        <dict>
         <key>CFBundleTypeRole</key>
         <string>Editor</string>
         <key>CFBundleURLName</key>
-        <string>qa1963.com</string>
+        <string>widgetdup.com</string>
         <key>CFBundleURLSchemes</key>
         <array>
-        <string>qa1963</string>
+        <string>widgetdup</string>
         </array>
         </dict>
     </array>
@@ -42,8 +59,19 @@
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
 
-
-
+	<key>NSCameraUsageDescription</key>
+    <string>In order to take a picture or video, this app requires permission to access the camera.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+    <string>In order to upload data, this app requires permission to access the photo library.</string>
+	<key>NSFaceIDUsageDescription</key>
+    <string>This app requires permissions to perform a biometric verification.</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+    <string>The app must use this permission </string>
+    <key>UIBackgroundModes</key>
+    <array>
+        <string>fetch</string>
+        <string>remote-notification</string>
+    </array>
 
 
 	<key>UILaunchStoryboardName</key>

@@ -1,0 +1,2 @@
+NSFaceIDUsageDescription = "The app must use this permission ";
+NSBluetoothAlwaysUsageDescription = "The app must use this permission ";
